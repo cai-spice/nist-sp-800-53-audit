@@ -11,3 +11,5 @@ This project consists of an audit done on a fictional healthcare company called 
 
 <h2>Project Documents:</h2>
 
+[NIST SP 800-53 Audit Excel Document](https://github.com/user-attachments/files/32163208/NIST.SP.800-53.Audit.-.Sheet1.pdf)
+[Nist SP 800-53 Audit Write-Up.pdf](https://github.com/user-attachments/files/32163287/Nist.SP.800-53.Audit.pdf)
